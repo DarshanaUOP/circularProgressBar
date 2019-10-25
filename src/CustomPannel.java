@@ -5,6 +5,7 @@ import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
 
 /**
+ *  created by darshana Ariyarathna
  * IMPORTANT :
  *      radius, BarColor,fontColor are required from initialization
  */
